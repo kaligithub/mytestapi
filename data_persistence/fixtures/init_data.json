@@ -1,0 +1,1224 @@
+[
+{
+    "model": "data_persistence.keywords",
+    "pk": 1,
+    "fields": {
+        "keywordName": "@lantec"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 2,
+    "fields": {
+        "keywordName": "BB&T"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 3,
+    "fields": {
+        "keywordName": "BBT"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 4,
+    "fields": {
+        "keywordName": "Cabela"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 5,
+    "fields": {
+        "keywordName": "Capital Bank"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 6,
+    "fields": {
+        "keywordName": "CBFC"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 7,
+    "fields": {
+        "keywordName": "Capital One"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 8,
+    "fields": {
+        "keywordName": "CapOne"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 9,
+    "fields": {
+        "keywordName": "Citizens National Bancorp"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 10,
+    "fields": {
+        "keywordName": "CommunityOne"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 11,
+    "fields": {
+        "keywordName": "CVB"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 12,
+    "fields": {
+        "keywordName": "CVB FC"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 13,
+    "fields": {
+        "keywordName": "DCB"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 14,
+    "fields": {
+        "keywordName": "DCB FC"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 15,
+    "fields": {
+        "keywordName": "Dollar Bank"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 16,
+    "fields": {
+        "keywordName": "First Commonwealth"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 17,
+    "fields": {
+        "keywordName": "First Niagara"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 18,
+    "fields": {
+        "keywordName": "FNFG"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 19,
+    "fields": {
+        "keywordName": "GE Asset Management"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 20,
+    "fields": {
+        "keywordName": "GEAM"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 21,
+    "fields": {
+        "keywordName": "Georgetown Bancorp"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 22,
+    "fields": {
+        "keywordName": "HomeTrust Bancshares"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 23,
+    "fields": {
+        "keywordName": "KeyCorp"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 24,
+    "fields": {
+        "keywordName": "National Penn Bancshares"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 25,
+    "fields": {
+        "keywordName": "Progressive-Home Federal Savings and Loan Associat"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 26,
+    "fields": {
+        "keywordName": "Salem Five Bancorp"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 27,
+    "fields": {
+        "keywordName": "Simmons First National Corporation"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 28,
+    "fields": {
+        "keywordName": "Simmons"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 29,
+    "fields": {
+        "keywordName": "StateStreet"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 30,
+    "fields": {
+        "keywordName": "STT"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 31,
+    "fields": {
+        "keywordName": "Trisummit"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 32,
+    "fields": {
+        "keywordName": "Valley Commerce"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 33,
+    "fields": {
+        "keywordName": "Bank"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 34,
+    "fields": {
+        "keywordName": "Bancorp"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 35,
+    "fields": {
+        "keywordName": "Bancshares"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 36,
+    "fields": {
+        "keywordName": "BHC"
+    }
+},
+{
+    "model": "data_persistence.categories",
+    "pk": 1,
+    "fields": {
+        "categoryName": "M&A"
+    }
+},
+{
+    "model": "data_persistence.categories",
+    "pk": 2,
+    "fields": {
+        "categoryName": "Reg Filing"
+    }
+},
+{
+    "model": "data_persistence.categories",
+    "pk": 3,
+    "fields": {
+        "categoryName": "T&C"
+    }
+},
+{
+    "model": "data_persistence.eventkeywords",
+    "pk": 1,
+    "fields": {
+        "name": "Acqui"
+    }
+},
+{
+    "model": "data_persistence.eventkeywords",
+    "pk": 2,
+    "fields": {
+        "name": "Merge"
+    }
+},
+{
+    "model": "data_persistence.eventkeywords",
+    "pk": 3,
+    "fields": {
+        "name": "Buy"
+    }
+},
+{
+    "model": "data_persistence.eventkeywords",
+    "pk": 4,
+    "fields": {
+        "name": "Takeover"
+    }
+},
+{
+    "model": "data_persistence.entitytype",
+    "pk": 1,
+    "fields": {
+        "entityType": "Company"
+    }
+},
+{
+    "model": "data_persistence.entitytype",
+    "pk": 2,
+    "fields": {
+        "entityType": "Regulator"
+    }
+},
+{
+    "model": "data_persistence.entitytype",
+    "pk": 3,
+    "fields": {
+        "entityType": "SRO"
+    }
+},
+{
+    "model": "data_persistence.entitytype",
+    "pk": 4,
+    "fields": {
+        "entityType": "Trade Body"
+    }
+},
+{
+    "model": "data_persistence.entitytype",
+    "pk": 5,
+    "fields": {
+        "entityType": "Other"
+    }
+},
+{
+    "model": "data_persistence.entitytype",
+    "pk": 6,
+    "fields": {
+        "entityType": "Bank"
+    }
+},
+{
+    "model": "data_persistence.channeltype",
+    "pk": 1,
+    "fields": {
+        "channelType": "Feed-ATOM"
+    }
+},
+{
+    "model": "data_persistence.channeltype",
+    "pk": 2,
+    "fields": {
+        "channelType": "Feed-RSS"
+    }
+},
+{
+    "model": "data_persistence.channeltype",
+    "pk": 3,
+    "fields": {
+        "channelType": "Email"
+    }
+},
+{
+    "model": "data_persistence.channeltype",
+    "pk": 4,
+    "fields": {
+        "channelType": "Web"
+    }
+},
+{
+    "model": "data_persistence.contentitemtype",
+    "pk": 1,
+    "fields": {
+        "contentItemType": "News"
+    }
+},
+{
+    "model": "data_persistence.contentitemtype",
+    "pk": 2,
+    "fields": {
+        "contentItemType": "Press Release"
+    }
+},
+{
+    "model": "data_persistence.contentitemtype",
+    "pk": 3,
+    "fields": {
+        "contentItemType": "Regulatory Filing"
+    }
+},
+{
+    "model": "data_persistence.contentitemtype",
+    "pk": 4,
+    "fields": {
+        "contentItemType": "Opinion"
+    }
+},
+{
+    "model": "data_persistence.contentitemtype",
+    "pk": 5,
+    "fields": {
+        "contentItemType": "Other"
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 3,
+    "fields": {
+        "entityName": "Bank @ltantec",
+        "category": 1,
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "eventKeywords": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "keywords": [
+            1
+        ]
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 4,
+    "fields": {
+        "entityName": "BB&T",
+        "category": 1,
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "eventKeywords": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "keywords": [
+            2,
+            3
+        ]
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 5,
+    "fields": {
+        "entityName": "Cabela's Master Credit Card Trust",
+        "category": 1,
+        "entityType": 5,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "eventKeywords": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "keywords": [
+            4
+        ]
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 6,
+    "fields": {
+        "entityName": "Capital Bank Financial Corp.",
+        "category": 1,
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "eventKeywords": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "keywords": [
+            5,
+            6
+        ]
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 7,
+    "fields": {
+        "entityName": "Capital One Financial Corp.",
+        "category": 1,
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "eventKeywords": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "keywords": [
+            7,
+            8
+        ]
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 8,
+    "fields": {
+        "entityName": "CommunityOne Bancorp",
+        "category": 1,
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "eventKeywords": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "keywords": [
+            9
+        ]
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 9,
+    "fields": {
+        "entityName": "CommunityOne Bancorp",
+        "category": 1,
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "eventKeywords": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "keywords": [
+            10
+        ]
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 10,
+    "fields": {
+        "entityName": "CVB Financial Corp.",
+        "category": 1,
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "eventKeywords": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "keywords": [
+            11,
+            12
+        ]
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 11,
+    "fields": {
+        "entityName": "DCB Financial Corp.",
+        "category": 1,
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "eventKeywords": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "keywords": [
+            13,
+            14
+        ]
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 12,
+    "fields": {
+        "entityName": "Dollar Bank",
+        "category": 1,
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "eventKeywords": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "keywords": [
+            15
+        ]
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 13,
+    "fields": {
+        "entityName": "First Commonwealth",
+        "category": 1,
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "eventKeywords": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "keywords": [
+            16
+        ]
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 14,
+    "fields": {
+        "entityName": "First Niagara Financial Group",
+        "category": 1,
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "eventKeywords": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "keywords": [
+            17,
+            18
+        ]
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 15,
+    "fields": {
+        "entityName": "GE Asset Management",
+        "category": 1,
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "eventKeywords": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "keywords": [
+            19,
+            20
+        ]
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 16,
+    "fields": {
+        "entityName": "Georgetown Bancorp",
+        "category": 1,
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "eventKeywords": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "keywords": [
+            21
+        ]
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 17,
+    "fields": {
+        "entityName": "HomeTrust Bancshares",
+        "category": 1,
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "eventKeywords": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "keywords": [
+            22
+        ]
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 18,
+    "fields": {
+        "entityName": "KeyCorp",
+        "category": 1,
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "eventKeywords": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "keywords": [
+            23
+        ]
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 19,
+    "fields": {
+        "entityName": "National Penn Bancshares",
+        "category": 1,
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "eventKeywords": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "keywords": [
+            24
+        ]
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 20,
+    "fields": {
+        "entityName": "Progressive-Home Federal Savings and Loan Associat",
+        "category": 1,
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "eventKeywords": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "keywords": [
+            25
+        ]
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 21,
+    "fields": {
+        "entityName": "Salem Five Bancorp",
+        "category": 1,
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "eventKeywords": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "keywords": [
+            26
+        ]
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 22,
+    "fields": {
+        "entityName": "Simmons First National Corporation",
+        "category": 1,
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "eventKeywords": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "keywords": [
+            27,
+            28
+        ]
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 23,
+    "fields": {
+        "entityName": "State Street Corporation",
+        "category": 1,
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "eventKeywords": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "keywords": [
+            29,
+            30
+        ]
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 24,
+    "fields": {
+        "entityName": "TriSummit Bancorp",
+        "category": 1,
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "eventKeywords": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "keywords": [
+            31
+        ]
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 25,
+    "fields": {
+        "entityName": "Valley Commerce Bancorp",
+        "category": 1,
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "eventKeywords": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "keywords": [
+            32
+        ]
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 26,
+    "fields": {
+        "entityName": "Other",
+        "category": 1,
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "eventKeywords": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "keywords": [
+            33,
+            34,
+            35,
+            36
+        ]
+    }
+},
+{
+    "model": "data_persistence.contentprovider",
+    "pk": 2,
+    "fields": {
+        "contentProviderName": "Benzinga",
+        "entity": null
+    }
+},
+{
+    "model": "data_persistence.contentprovider",
+    "pk": 3,
+    "fields": {
+        "contentProviderName": "American Banker",
+        "entity": null
+    }
+},
+{
+    "model": "data_persistence.contentprovider",
+    "pk": 4,
+    "fields": {
+        "contentProviderName": "Efinancial News",
+        "entity": null
+    }
+},
+{
+    "model": "data_persistence.contentprovider",
+    "pk": 5,
+    "fields": {
+        "contentProviderName": "Seeking Alpha",
+        "entity": null
+    }
+},
+{
+    "model": "data_persistence.contentprovider",
+    "pk": 6,
+    "fields": {
+        "contentProviderName": "NYT",
+        "entity": null
+    }
+},
+{
+    "model": "data_persistence.contentprovider",
+    "pk": 7,
+    "fields": {
+        "contentProviderName": "Reuters",
+        "entity": null
+    }
+},
+{
+    "model": "data_persistence.contentprovider",
+    "pk": 8,
+    "fields": {
+        "contentProviderName": "Middle Market",
+        "entity": null
+    }
+},
+{
+    "model": "data_persistence.contentsource",
+    "pk": 1,
+    "fields": {
+        "contentProvider": 2,
+        "channelType": "Feed-RSS",
+        "contentLocation": "http://feeds.benzinga.com/benzinga/news/m-a",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null
+    }
+},
+{
+    "model": "data_persistence.contentsource",
+    "pk": 2,
+    "fields": {
+        "contentProvider": 3,
+        "channelType": "Feed-RSS",
+        "contentLocation": "http://www.americanbanker.com/resources/mergersacquisitions.xml",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null
+    }
+},
+{
+    "model": "data_persistence.contentsource",
+    "pk": 3,
+    "fields": {
+        "contentProvider": 4,
+        "channelType": "Feed-RSS",
+        "contentLocation": "http://www.efinancialnews.com/investmentbanking/mergers-and-acquisitions/rss",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null
+    }
+},
+{
+    "model": "data_persistence.contentsource",
+    "pk": 4,
+    "fields": {
+        "contentProvider": 5,
+        "channelType": "Feed-RSS",
+        "contentLocation": "http://seekingalpha.com/api/sa/combined/MTB.xml",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null
+    }
+},
+{
+    "model": "data_persistence.contentsource",
+    "pk": 5,
+    "fields": {
+        "contentProvider": 6,
+        "channelType": "Feed-RSS",
+        "contentLocation": "http://www.nytimes.com/services/xml/rss/nyt/Dealbook.xml",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null
+    }
+},
+{
+    "model": "data_persistence.contentsource",
+    "pk": 6,
+    "fields": {
+        "contentProvider": 7,
+        "channelType": "Feed-RSS",
+        "contentLocation": "http://feeds.reuters.com/reuters/mergersNews",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null
+    }
+},
+{
+    "model": "data_persistence.contentsource",
+    "pk": 7,
+    "fields": {
+        "contentProvider": 8,
+        "channelType": "Feed-RSS",
+        "contentLocation": "http://www.themiddlemarket.com/news/index.html?zkDo=showRSS",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null
+    }
+},
+{
+    "model": "data_persistence.regulatorfilingtype",
+    "pk": 1,
+    "fields": {
+        "regFilingType": "14d1"
+    }
+},
+{
+    "model": "data_persistence.regulatorfilingtype",
+    "pk": 2,
+    "fields": {
+        "regFilingType": "14d9"
+    }
+},
+{
+    "model": "data_persistence.regulatorfilingtype",
+    "pk": 3,
+    "fields": {
+        "regFilingType": "144"
+    }
+},
+{
+    "model": "data_persistence.regulatorfilingtype",
+    "pk": 4,
+    "fields": {
+        "regFilingType": "424"
+    }
+},
+{
+    "model": "data_persistence.regulatorfilingtype",
+    "pk": 5,
+    "fields": {
+        "regFilingType": "425"
+    }
+},
+{
+    "model": "data_persistence.regulatorfilingtype",
+    "pk": 6,
+    "fields": {
+        "regFilingType": "FWP"
+    }
+},
+{
+    "model": "data_persistence.contentitemactivitytype",
+    "pk": 1,
+    "fields": {
+        "contentItemActivityType": "Filtering"
+    }
+},
+{
+    "model": "data_persistence.contentitemactivitytype",
+    "pk": 2,
+    "fields": {
+        "contentItemActivityType": "Categorization"
+    }
+},
+{
+    "model": "data_persistence.contentitemactivitytype",
+    "pk": 3,
+    "fields": {
+        "contentItemActivityType": "Extraction"
+    }
+},
+{
+    "model": "data_persistence.contentitemactivitytype",
+    "pk": 4,
+    "fields": {
+        "contentItemActivityType": "QC"
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$30000$dGqdfqSkxBj4$o2nbhAPWaQumSL9gAIi75fcTvFVuSd3Tei3ZBYoeSPo=",
+        "last_login": "2017-01-03T12:20:35Z",
+        "is_superuser": true,
+        "username": "admin",
+        "first_name": "",
+        "last_name": "",
+        "email": "dennis.thomas@incedoinc.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2017-01-03T12:20:23Z",
+        "groups": [],
+        "user_permissions": []
+    }
+}
+]

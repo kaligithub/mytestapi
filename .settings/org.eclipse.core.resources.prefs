@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//coreFiles/ConfigurationFiles/fwpConfig.py=utf-8
+encoding//coreFiles/DataSets/RssReader.py=utf-8
+encoding//coreFiles/Utility/PayloadExtractor.py=utf-8
+encoding//data_persistence/migrations/0001_initial.py=utf-8
+encoding//data_persistence/migrations/0003_auto_20170105_1300.py=utf-8
+encoding//data_persistence/migrations/0007_contentitem_contenttitle.py=utf-8

@@ -1,0 +1,3208 @@
+[
+{
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$24000$TED1HMbLMYPq$kShbISdC82+dqx1SSW1B2ip0tMeb95J0+j9swko1Phg=",
+        "last_login": "2017-01-17T13:20:15.875Z",
+        "is_superuser": true,
+        "username": "admin",
+        "first_name": "",
+        "last_name": "",
+        "email": "dennis.thomas@incedoinc.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2017-01-03T12:20:23Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 1,
+    "fields": {
+        "keywordName": "@lantec"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 2,
+    "fields": {
+        "keywordName": "BB&T"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 3,
+    "fields": {
+        "keywordName": "BBT"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 4,
+    "fields": {
+        "keywordName": "Cabela"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 5,
+    "fields": {
+        "keywordName": "Capital Bank"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 6,
+    "fields": {
+        "keywordName": "CBFC"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 7,
+    "fields": {
+        "keywordName": "Capital One"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 8,
+    "fields": {
+        "keywordName": "CapOne"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 9,
+    "fields": {
+        "keywordName": "Citizens National Bancorp"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 10,
+    "fields": {
+        "keywordName": "CommunityOne"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 11,
+    "fields": {
+        "keywordName": "CVB"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 12,
+    "fields": {
+        "keywordName": "CVB FC"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 13,
+    "fields": {
+        "keywordName": "DCB"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 14,
+    "fields": {
+        "keywordName": "DCB FC"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 15,
+    "fields": {
+        "keywordName": "Dollar Bank"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 16,
+    "fields": {
+        "keywordName": "First Commonwealth"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 17,
+    "fields": {
+        "keywordName": "First Niagara"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 18,
+    "fields": {
+        "keywordName": "FNFG"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 19,
+    "fields": {
+        "keywordName": "GE Asset Management"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 20,
+    "fields": {
+        "keywordName": "GEAM"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 21,
+    "fields": {
+        "keywordName": "Georgetown Bancorp"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 22,
+    "fields": {
+        "keywordName": "HomeTrust Bancshares"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 23,
+    "fields": {
+        "keywordName": "KeyCorp"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 24,
+    "fields": {
+        "keywordName": "National Penn Bancshares"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 25,
+    "fields": {
+        "keywordName": "Progressive-Home Federal Savings and Loan Associat"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 26,
+    "fields": {
+        "keywordName": "Salem Five Bancorp"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 27,
+    "fields": {
+        "keywordName": "Simmons First National Corporation"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 28,
+    "fields": {
+        "keywordName": "Simmons"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 29,
+    "fields": {
+        "keywordName": "StateStreet"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 30,
+    "fields": {
+        "keywordName": "STT"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 31,
+    "fields": {
+        "keywordName": "Trisummit"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 32,
+    "fields": {
+        "keywordName": "Valley Commerce"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 33,
+    "fields": {
+        "keywordName": "Bank"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 34,
+    "fields": {
+        "keywordName": "Bancorp"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 36,
+    "fields": {
+        "keywordName": "BHC"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 37,
+    "fields": {
+        "keywordName": "AT&T"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 38,
+    "fields": {
+        "keywordName": "3D Systems"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 39,
+    "fields": {
+        "keywordName": "Ariad Pharmaceuticals"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 40,
+    "fields": {
+        "keywordName": "Wunderlich"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 41,
+    "fields": {
+        "keywordName": "Trump"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 42,
+    "fields": {
+        "keywordName": "Novadaq"
+    }
+},
+{
+    "model": "data_persistence.keywords",
+    "pk": 43,
+    "fields": {
+        "keywordName": "Uranium"
+    }
+},
+{
+    "model": "data_persistence.categories",
+    "pk": 4,
+    "fields": {
+        "categoryName": "Acqui"
+    }
+},
+{
+    "model": "data_persistence.categories",
+    "pk": 5,
+    "fields": {
+        "categoryName": "Merge"
+    }
+},
+{
+    "model": "data_persistence.categories",
+    "pk": 6,
+    "fields": {
+        "categoryName": "Buy"
+    }
+},
+{
+    "model": "data_persistence.categories",
+    "pk": 7,
+    "fields": {
+        "categoryName": "Take Over"
+    }
+},
+{
+    "model": "data_persistence.entitytype",
+    "pk": 1,
+    "fields": {
+        "entityType": "Company"
+    }
+},
+{
+    "model": "data_persistence.entitytype",
+    "pk": 2,
+    "fields": {
+        "entityType": "Regulator"
+    }
+},
+{
+    "model": "data_persistence.entitytype",
+    "pk": 3,
+    "fields": {
+        "entityType": "SRO"
+    }
+},
+{
+    "model": "data_persistence.entitytype",
+    "pk": 4,
+    "fields": {
+        "entityType": "Trade Body"
+    }
+},
+{
+    "model": "data_persistence.entitytype",
+    "pk": 5,
+    "fields": {
+        "entityType": "Other"
+    }
+},
+{
+    "model": "data_persistence.entitytype",
+    "pk": 6,
+    "fields": {
+        "entityType": "Bank"
+    }
+},
+{
+    "model": "data_persistence.channeltype",
+    "pk": 1,
+    "fields": {
+        "channelType": "Feed-ATOM"
+    }
+},
+{
+    "model": "data_persistence.channeltype",
+    "pk": 2,
+    "fields": {
+        "channelType": "Feed-RSS"
+    }
+},
+{
+    "model": "data_persistence.channeltype",
+    "pk": 3,
+    "fields": {
+        "channelType": "Email"
+    }
+},
+{
+    "model": "data_persistence.channeltype",
+    "pk": 4,
+    "fields": {
+        "channelType": "Web"
+    }
+},
+{
+    "model": "data_persistence.contentitemtype",
+    "pk": 1,
+    "fields": {
+        "contentItemType": "News"
+    }
+},
+{
+    "model": "data_persistence.contentitemtype",
+    "pk": 2,
+    "fields": {
+        "contentItemType": "Press Release"
+    }
+},
+{
+    "model": "data_persistence.contentitemtype",
+    "pk": 3,
+    "fields": {
+        "contentItemType": "Regulatory Filing"
+    }
+},
+{
+    "model": "data_persistence.contentitemtype",
+    "pk": 4,
+    "fields": {
+        "contentItemType": "Opinion"
+    }
+},
+{
+    "model": "data_persistence.contentitemtype",
+    "pk": 5,
+    "fields": {
+        "contentItemType": "Other"
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 3,
+    "fields": {
+        "entityName": "Bank @ltantec",
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "keywords": [
+            1
+        ],
+        "category": []
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 4,
+    "fields": {
+        "entityName": "BB&T",
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "keywords": [
+            2,
+            3
+        ],
+        "category": []
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 5,
+    "fields": {
+        "entityName": "Cabela's Master Credit Card Trust",
+        "entityType": 5,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "keywords": [
+            4
+        ],
+        "category": []
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 6,
+    "fields": {
+        "entityName": "Capital Bank Financial Corp.",
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "keywords": [
+            5,
+            6
+        ],
+        "category": []
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 7,
+    "fields": {
+        "entityName": "Capital One Financial Corp.",
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "keywords": [
+            7,
+            8
+        ],
+        "category": []
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 8,
+    "fields": {
+        "entityName": "CommunityOne Bancorp",
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "keywords": [
+            9
+        ],
+        "category": []
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 9,
+    "fields": {
+        "entityName": "CommunityOne Bancorp",
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "keywords": [
+            10
+        ],
+        "category": []
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 10,
+    "fields": {
+        "entityName": "CVB Financial Corp.",
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "keywords": [
+            11,
+            12
+        ],
+        "category": []
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 11,
+    "fields": {
+        "entityName": "DCB Financial Corp.",
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "keywords": [
+            13,
+            14
+        ],
+        "category": []
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 12,
+    "fields": {
+        "entityName": "Dollar Bank",
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "keywords": [
+            15
+        ],
+        "category": []
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 13,
+    "fields": {
+        "entityName": "First Commonwealth",
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "keywords": [
+            16
+        ],
+        "category": []
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 14,
+    "fields": {
+        "entityName": "First Niagara Financial Group",
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "keywords": [
+            17,
+            18
+        ],
+        "category": []
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 15,
+    "fields": {
+        "entityName": "GE Asset Management",
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "keywords": [
+            19,
+            20
+        ],
+        "category": []
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 16,
+    "fields": {
+        "entityName": "Georgetown Bancorp",
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "keywords": [
+            21
+        ],
+        "category": []
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 17,
+    "fields": {
+        "entityName": "HomeTrust Bancshares",
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "keywords": [
+            22
+        ],
+        "category": []
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 18,
+    "fields": {
+        "entityName": "KeyCorp",
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "keywords": [
+            23
+        ],
+        "category": []
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 19,
+    "fields": {
+        "entityName": "National Penn Bancshares",
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "keywords": [
+            24
+        ],
+        "category": []
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 20,
+    "fields": {
+        "entityName": "Progressive-Home Federal Savings and Loan Associat",
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "keywords": [
+            25
+        ],
+        "category": []
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 21,
+    "fields": {
+        "entityName": "Salem Five Bancorp",
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "keywords": [
+            26
+        ],
+        "category": []
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 22,
+    "fields": {
+        "entityName": "Simmons First National Corporation",
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "keywords": [
+            27,
+            28
+        ],
+        "category": []
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 23,
+    "fields": {
+        "entityName": "State Street Corporation",
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "keywords": [
+            29,
+            30
+        ],
+        "category": []
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 24,
+    "fields": {
+        "entityName": "TriSummit Bancorp",
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "keywords": [
+            31
+        ],
+        "category": []
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 25,
+    "fields": {
+        "entityName": "Valley Commerce Bancorp",
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "keywords": [
+            32
+        ],
+        "category": []
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 26,
+    "fields": {
+        "entityName": "Other",
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "keywords": [
+            33,
+            34,
+            36
+        ],
+        "category": []
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 27,
+    "fields": {
+        "entityName": "Ally Financial Inc.",
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "keywords": [],
+        "category": []
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 28,
+    "fields": {
+        "entityName": "Bank of America Corp.",
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "keywords": [],
+        "category": []
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 29,
+    "fields": {
+        "entityName": "Bank of New York Mellon",
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "keywords": [],
+        "category": []
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 30,
+    "fields": {
+        "entityName": "BankUnited Inc.",
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "keywords": [],
+        "category": []
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 31,
+    "fields": {
+        "entityName": "BB&T Corporation",
+        "entityType": 6,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "keywords": [],
+        "category": []
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 32,
+    "fields": {
+        "entityName": "Ariad Pharmaceuticals",
+        "entityType": 1,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "keywords": [
+            39
+        ],
+        "category": []
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 33,
+    "fields": {
+        "entityName": "3D Systems",
+        "entityType": 1,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "keywords": [
+            38
+        ],
+        "category": []
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 34,
+    "fields": {
+        "entityName": "AT&T",
+        "entityType": 1,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "keywords": [
+            37
+        ],
+        "category": []
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 35,
+    "fields": {
+        "entityName": "Naked Brand",
+        "entityType": 5,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "keywords": [
+            43
+        ],
+        "category": []
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 36,
+    "fields": {
+        "entityName": "Wunderlich",
+        "entityType": 5,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "keywords": [
+            40
+        ],
+        "category": []
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 37,
+    "fields": {
+        "entityName": "Trump",
+        "entityType": 5,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "keywords": [
+            41
+        ],
+        "category": []
+    }
+},
+{
+    "model": "data_persistence.entity",
+    "pk": 38,
+    "fields": {
+        "entityName": "Novadaq",
+        "entityType": 5,
+        "hasParent": null,
+        "parentEntityID": 0,
+        "parentEntityName": "",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null,
+        "keywords": [
+            42
+        ],
+        "category": []
+    }
+},
+{
+    "model": "data_persistence.contentprovider",
+    "pk": 2,
+    "fields": {
+        "contentProviderName": "Benzinga",
+        "entity": null
+    }
+},
+{
+    "model": "data_persistence.contentprovider",
+    "pk": 3,
+    "fields": {
+        "contentProviderName": "American Banker",
+        "entity": null
+    }
+},
+{
+    "model": "data_persistence.contentprovider",
+    "pk": 4,
+    "fields": {
+        "contentProviderName": "Efinancial News",
+        "entity": null
+    }
+},
+{
+    "model": "data_persistence.contentprovider",
+    "pk": 5,
+    "fields": {
+        "contentProviderName": "Seeking Alpha",
+        "entity": null
+    }
+},
+{
+    "model": "data_persistence.contentprovider",
+    "pk": 6,
+    "fields": {
+        "contentProviderName": "NYT",
+        "entity": null
+    }
+},
+{
+    "model": "data_persistence.contentprovider",
+    "pk": 7,
+    "fields": {
+        "contentProviderName": "Reuters",
+        "entity": null
+    }
+},
+{
+    "model": "data_persistence.contentprovider",
+    "pk": 8,
+    "fields": {
+        "contentProviderName": "Middle Market",
+        "entity": null
+    }
+},
+{
+    "model": "data_persistence.contentprovider",
+    "pk": 9,
+    "fields": {
+        "contentProviderName": "Ally Financial Inc.",
+        "entity": 27
+    }
+},
+{
+    "model": "data_persistence.contentprovider",
+    "pk": 10,
+    "fields": {
+        "contentProviderName": "Bank of America Corp.",
+        "entity": 28
+    }
+},
+{
+    "model": "data_persistence.contentprovider",
+    "pk": 11,
+    "fields": {
+        "contentProviderName": "Bank of New York Mellon",
+        "entity": 29
+    }
+},
+{
+    "model": "data_persistence.contentprovider",
+    "pk": 12,
+    "fields": {
+        "contentProviderName": "BankUnited Inc.",
+        "entity": 30
+    }
+},
+{
+    "model": "data_persistence.contentprovider",
+    "pk": 13,
+    "fields": {
+        "contentProviderName": "BB&T Corporation",
+        "entity": 31
+    }
+},
+{
+    "model": "data_persistence.contentsource",
+    "pk": 1,
+    "fields": {
+        "contentProvider": 2,
+        "channelType": "Feed-RSS",
+        "contentItemType": null,
+        "contentLocation": "http://feeds.benzinga.com/benzinga/news/m-a",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null
+    }
+},
+{
+    "model": "data_persistence.contentsource",
+    "pk": 2,
+    "fields": {
+        "contentProvider": 3,
+        "channelType": "Feed-RSS",
+        "contentItemType": null,
+        "contentLocation": "http://www.americanbanker.com/resources/mergersacquisitions.xml",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null
+    }
+},
+{
+    "model": "data_persistence.contentsource",
+    "pk": 3,
+    "fields": {
+        "contentProvider": 4,
+        "channelType": "Feed-RSS",
+        "contentItemType": null,
+        "contentLocation": "http://www.efinancialnews.com/investmentbanking/mergers-and-acquisitions/rss",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null
+    }
+},
+{
+    "model": "data_persistence.contentsource",
+    "pk": 4,
+    "fields": {
+        "contentProvider": 5,
+        "channelType": "Feed-RSS",
+        "contentItemType": null,
+        "contentLocation": "http://seekingalpha.com/api/sa/combined/MTB.xml",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null
+    }
+},
+{
+    "model": "data_persistence.contentsource",
+    "pk": 5,
+    "fields": {
+        "contentProvider": 6,
+        "channelType": "Feed-RSS",
+        "contentItemType": null,
+        "contentLocation": "http://www.nytimes.com/services/xml/rss/nyt/Dealbook.xml",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null
+    }
+},
+{
+    "model": "data_persistence.contentsource",
+    "pk": 6,
+    "fields": {
+        "contentProvider": 7,
+        "channelType": "Feed-RSS",
+        "contentItemType": null,
+        "contentLocation": "http://feeds.reuters.com/reuters/mergersNews",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null
+    }
+},
+{
+    "model": "data_persistence.contentsource",
+    "pk": 7,
+    "fields": {
+        "contentProvider": 8,
+        "channelType": "Feed-RSS",
+        "contentItemType": null,
+        "contentLocation": "http://www.themiddlemarket.com/news/index.html?zkDo=showRSS",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null
+    }
+},
+{
+    "model": "data_persistence.contentsource",
+    "pk": 8,
+    "fields": {
+        "contentProvider": 9,
+        "channelType": "Feed-RSS",
+        "contentItemType": null,
+        "contentLocation": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&count=100&output=atom&CIK=0000040729",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null
+    }
+},
+{
+    "model": "data_persistence.contentsource",
+    "pk": 9,
+    "fields": {
+        "contentProvider": 10,
+        "channelType": "Feed-RSS",
+        "contentItemType": null,
+        "contentLocation": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&count=100&output=atom&CIK=0000070858",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null
+    }
+},
+{
+    "model": "data_persistence.contentsource",
+    "pk": 10,
+    "fields": {
+        "contentProvider": 11,
+        "channelType": "Feed-RSS",
+        "contentItemType": null,
+        "contentLocation": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&count=100&output=atom&CIK=0001390777",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null
+    }
+},
+{
+    "model": "data_persistence.contentsource",
+    "pk": 11,
+    "fields": {
+        "contentProvider": 12,
+        "channelType": "Feed-RSS",
+        "contentItemType": null,
+        "contentLocation": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&count=100&output=atom&CIK=0001504008",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null
+    }
+},
+{
+    "model": "data_persistence.contentsource",
+    "pk": 12,
+    "fields": {
+        "contentProvider": 13,
+        "channelType": "Feed-RSS",
+        "contentItemType": null,
+        "contentLocation": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&count=100&output=atom&CIK=0000092230",
+        "isTracked": null,
+        "trackStartDate": null,
+        "trackEndDate": null
+    }
+},
+{
+    "model": "data_persistence.regulatorfilingtype",
+    "pk": 1,
+    "fields": {
+        "regFilingType": "14d1"
+    }
+},
+{
+    "model": "data_persistence.regulatorfilingtype",
+    "pk": 2,
+    "fields": {
+        "regFilingType": "14d9"
+    }
+},
+{
+    "model": "data_persistence.regulatorfilingtype",
+    "pk": 3,
+    "fields": {
+        "regFilingType": "144"
+    }
+},
+{
+    "model": "data_persistence.regulatorfilingtype",
+    "pk": 4,
+    "fields": {
+        "regFilingType": "424"
+    }
+},
+{
+    "model": "data_persistence.regulatorfilingtype",
+    "pk": 5,
+    "fields": {
+        "regFilingType": "425"
+    }
+},
+{
+    "model": "data_persistence.regulatorfilingtype",
+    "pk": 6,
+    "fields": {
+        "regFilingType": "FWP"
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 1,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "['0000070858']",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 2,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 3,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 4,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 5,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 6,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 7,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 8,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 9,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 10,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 11,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 12,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 13,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 14,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 15,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 16,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 17,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 18,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 19,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 20,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 21,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 22,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 23,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 24,
+    "fields": {
+        "regulatoryContentProviderID": 11,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0001390777",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 25,
+    "fields": {
+        "regulatoryContentProviderID": 11,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0001390777",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 26,
+    "fields": {
+        "regulatoryContentProviderID": 11,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0001390777",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 27,
+    "fields": {
+        "regulatoryContentProviderID": 11,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0001390777",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 28,
+    "fields": {
+        "regulatoryContentProviderID": 11,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0001390777",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 29,
+    "fields": {
+        "regulatoryContentProviderID": 12,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0001504008",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 30,
+    "fields": {
+        "regulatoryContentProviderID": 13,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000092230",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 31,
+    "fields": {
+        "regulatoryContentProviderID": 13,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000092230",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 32,
+    "fields": {
+        "regulatoryContentProviderID": 13,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000092230",
+        "regulatorFilingType": 5
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 33,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 34,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 35,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 36,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 37,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 38,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 39,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 40,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 41,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 42,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 43,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 44,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 45,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 46,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 47,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 48,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 49,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 50,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 51,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 52,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 53,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 54,
+    "fields": {
+        "regulatoryContentProviderID": 11,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0001390777",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 55,
+    "fields": {
+        "regulatoryContentProviderID": 11,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0001390777",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 56,
+    "fields": {
+        "regulatoryContentProviderID": 11,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0001390777",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 57,
+    "fields": {
+        "regulatoryContentProviderID": 11,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0001390777",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 58,
+    "fields": {
+        "regulatoryContentProviderID": 11,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0001390777",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 59,
+    "fields": {
+        "regulatoryContentProviderID": 12,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0001504008",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 60,
+    "fields": {
+        "regulatoryContentProviderID": 13,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000092230",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 61,
+    "fields": {
+        "regulatoryContentProviderID": 13,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000092230",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 62,
+    "fields": {
+        "regulatoryContentProviderID": 13,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000092230",
+        "regulatorFilingType": 5
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 63,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 64,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 65,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 66,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 67,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 68,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 69,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 70,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 71,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 72,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 73,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 74,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 75,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 76,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 77,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 78,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 79,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 80,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 81,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 82,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 83,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 84,
+    "fields": {
+        "regulatoryContentProviderID": 11,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0001390777",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 85,
+    "fields": {
+        "regulatoryContentProviderID": 11,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0001390777",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 86,
+    "fields": {
+        "regulatoryContentProviderID": 11,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0001390777",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 87,
+    "fields": {
+        "regulatoryContentProviderID": 11,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0001390777",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 88,
+    "fields": {
+        "regulatoryContentProviderID": 11,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0001390777",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 89,
+    "fields": {
+        "regulatoryContentProviderID": 12,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0001504008",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 90,
+    "fields": {
+        "regulatoryContentProviderID": 13,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000092230",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 91,
+    "fields": {
+        "regulatoryContentProviderID": 13,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000092230",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 92,
+    "fields": {
+        "regulatoryContentProviderID": 13,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000092230",
+        "regulatorFilingType": 5
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 93,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 94,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 95,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 96,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 97,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 98,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 99,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 100,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 101,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 102,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 103,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 104,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 105,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 106,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 107,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 108,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 109,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 110,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 111,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 112,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 113,
+    "fields": {
+        "regulatoryContentProviderID": 11,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0001390777",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 114,
+    "fields": {
+        "regulatoryContentProviderID": 11,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0001390777",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 115,
+    "fields": {
+        "regulatoryContentProviderID": 11,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0001390777",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 116,
+    "fields": {
+        "regulatoryContentProviderID": 11,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0001390777",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 117,
+    "fields": {
+        "regulatoryContentProviderID": 11,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0001390777",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 118,
+    "fields": {
+        "regulatoryContentProviderID": 12,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0001504008",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 119,
+    "fields": {
+        "regulatoryContentProviderID": 13,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000092230",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 120,
+    "fields": {
+        "regulatoryContentProviderID": 13,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000092230",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 121,
+    "fields": {
+        "regulatoryContentProviderID": 13,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000092230",
+        "regulatorFilingType": 5
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 122,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 123,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 124,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 125,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 126,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 127,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 128,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 129,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 130,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 131,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 132,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 133,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 134,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 135,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 136,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 137,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 138,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 139,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 140,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 141,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 142,
+    "fields": {
+        "regulatoryContentProviderID": 11,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0001390777",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 143,
+    "fields": {
+        "regulatoryContentProviderID": 11,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0001390777",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 144,
+    "fields": {
+        "regulatoryContentProviderID": 11,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0001390777",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 145,
+    "fields": {
+        "regulatoryContentProviderID": 11,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0001390777",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 146,
+    "fields": {
+        "regulatoryContentProviderID": 11,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0001390777",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 147,
+    "fields": {
+        "regulatoryContentProviderID": 12,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0001504008",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 148,
+    "fields": {
+        "regulatoryContentProviderID": 13,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000092230",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 149,
+    "fields": {
+        "regulatoryContentProviderID": 13,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000092230",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 150,
+    "fields": {
+        "regulatoryContentProviderID": 13,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000092230",
+        "regulatorFilingType": 5
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 151,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 152,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 153,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 154,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 155,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 156,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 157,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 158,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 159,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 160,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 161,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 162,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 163,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 164,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 165,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 166,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 167,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 168,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 169,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 170,
+    "fields": {
+        "regulatoryContentProviderID": 10,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000070858",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 171,
+    "fields": {
+        "regulatoryContentProviderID": 11,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0001390777",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 172,
+    "fields": {
+        "regulatoryContentProviderID": 11,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0001390777",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 173,
+    "fields": {
+        "regulatoryContentProviderID": 11,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0001390777",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 174,
+    "fields": {
+        "regulatoryContentProviderID": 11,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0001390777",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 175,
+    "fields": {
+        "regulatoryContentProviderID": 11,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0001390777",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 176,
+    "fields": {
+        "regulatoryContentProviderID": 12,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0001504008",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 177,
+    "fields": {
+        "regulatoryContentProviderID": 13,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000092230",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 178,
+    "fields": {
+        "regulatoryContentProviderID": 13,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000092230",
+        "regulatorFilingType": 6
+    }
+},
+{
+    "model": "data_persistence.filingitem",
+    "pk": 179,
+    "fields": {
+        "regulatoryContentProviderID": 13,
+        "regContentProviderName": null,
+        "regulatorFilingNumber": "0000092230",
+        "regulatorFilingType": 5
+    }
+},
+{
+    "model": "data_persistence.contentitemactivitytype",
+    "pk": 1,
+    "fields": {
+        "contentItemActivityType": "Filtering"
+    }
+},
+{
+    "model": "data_persistence.contentitemactivitytype",
+    "pk": 2,
+    "fields": {
+        "contentItemActivityType": "Categorization"
+    }
+},
+{
+    "model": "data_persistence.contentitemactivitytype",
+    "pk": 3,
+    "fields": {
+        "contentItemActivityType": "Extraction"
+    }
+},
+{
+    "model": "data_persistence.contentitemactivitytype",
+    "pk": 4,
+    "fields": {
+        "contentItemActivityType": "QC"
+    }
+}
+]
